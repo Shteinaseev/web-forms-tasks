@@ -11,7 +11,7 @@ namespace WebApplication4
 {
 
 
-    public partial class Vezba08
+    public partial class Vezba11
     {
 
         /// <summary>
@@ -24,40 +24,39 @@ namespace WebApplication4
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// txtBroj1 control.
+        /// txtBroj control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBroj1;
+        protected global::System.Web.UI.WebControls.TextBox txtBroj;
 
         /// <summary>
-        /// txtBroj2 control.
+        /// btnZapamti control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBroj2;
+        protected global::System.Web.UI.WebControls.Button btnZapamti;
 
         /// <summary>
-        /// btnSaberi control.
+        /// btnPrikazi control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSaberi;
+        protected global::System.Web.UI.WebControls.Button btnPrikazi;
 
         /// <summary>
-        /// IblRezultat control.
+        /// IblPoruka control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label IblRezultat;
+        protected global::System.Web.UI.WebControls.Label IblPoruka;
     }
 }
- 

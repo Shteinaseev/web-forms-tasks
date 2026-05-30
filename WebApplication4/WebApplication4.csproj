@@ -94,6 +94,10 @@
     <Content Include="Vezba08.aspx" />
     <Content Include="Vezba09.aspx" />
     <Content Include="Vezba10.aspx" />
+    <Content Include="Vezba11.aspx" />
+    <Content Include="Vezba12.aspx" />
+    <Content Include="Vezba13.aspx" />
+    <Content Include="Vezba14.aspx" />
     <Content Include="Web.config" />
     <Content Include="Vezba01.aspx" />
     <Content Include="Vezba02.aspx" />
@@ -175,6 +179,34 @@
     </Compile>
     <Compile Include="Vezba10.aspx.designer.cs">
       <DependentUpon>Vezba10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vezba11.aspx.cs">
+      <DependentUpon>Vezba11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vezba11.aspx.designer.cs">
+      <DependentUpon>Vezba11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vezba12.aspx.cs">
+      <DependentUpon>Vezba12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vezba12.aspx.designer.cs">
+      <DependentUpon>Vezba12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vezba13.aspx.cs">
+      <DependentUpon>Vezba13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vezba13.aspx.designer.cs">
+      <DependentUpon>Vezba13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vezba14.aspx.cs">
+      <DependentUpon>Vezba14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vezba14.aspx.designer.cs">
+      <DependentUpon>Vezba14.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

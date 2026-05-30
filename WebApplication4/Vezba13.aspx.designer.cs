@@ -11,7 +11,7 @@ namespace WebApplication4
 {
 
 
-    public partial class Vezba08
+    public partial class Vezba13
     {
 
         /// <summary>
@@ -24,40 +24,57 @@ namespace WebApplication4
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// txtBroj1 control.
+        /// txtEkran control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBroj1;
+        protected global::System.Web.UI.WebControls.TextBox txtEkran;
 
         /// <summary>
-        /// txtBroj2 control.
+        /// btn1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtBroj2;
+        protected global::System.Web.UI.WebControls.Button btn1;
 
         /// <summary>
-        /// btnSaberi control.
+        /// btn2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSaberi;
+        protected global::System.Web.UI.WebControls.Button btn2;
 
         /// <summary>
-        /// IblRezultat control.
+        /// btn3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label IblRezultat;
+        protected global::System.Web.UI.WebControls.Button btn3;
+
+        /// <summary>
+        /// btnPlus control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPlus;
+
+        /// <summary>
+        /// IblPoruka control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label IblPoruka;
     }
 }
- 
